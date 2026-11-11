@@ -53,10 +53,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDR4kjcL_EfuKJ1-1vjvWwWFogjZ1VL79k',
-    appId: '1:1074798951489:android:7bfdc13e1550819050dac0',
-    messagingSenderId: '1074798951489',
-    projectId: 'aplikasi-form-login-flutter',
-    storageBucket: 'aplikasi-form-login-flutter.firebasestorage.app',
+    apiKey: 'punya anda sendiri',
+    appId: 'punya anda sendiri',
+    messagingSenderId: 'punya anda sendiri',
+    projectId: 'punya anda sendiri',
+    storageBucket: 'punya anda sendiri',
   );
 }
