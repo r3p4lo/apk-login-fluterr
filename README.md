@@ -148,6 +148,9 @@ await FirebaseAuth.instance.signOut();
 
 Contoh di atas menjelaskan metode SDK; sesuaikan validasi, nama variabel, penanganan error, dan alur halaman dengan source code aplikasi.
 
+ini untuk mengecek API database di firebase
+https://docs.google.com/presentation/d/1bAAg7RhBfvWPjMRRYRW_EHDFEeiwKnxQ/edit?usp=drive_link&ouid=113530282555190240769&rtpof=true&sd=true
+
 ## 8. Menghubungkan Flutter ke Firebase dengan FlutterFire CLI
 
 FlutterFire CLI membuat konfigurasi Firebase untuk platform yang dipilih. Jalankan perintah berikut.
