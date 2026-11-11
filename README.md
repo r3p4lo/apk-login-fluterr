@@ -449,4 +449,8 @@ Struktur dapat berbeda sesuai versi Flutter dan isi proyek. Folder yang umum dij
 
 ---
 
+### APK dapat di uji coba melalui
+https://drive.google.com/file/d/1hz_WD-Zcj17NrRT0E6EN9TgkabF-_AEh/view?usp=sharing 
+
+
 **Catatan pemeliharaan:** README ini adalah panduan dasar. Perbarui daftar fitur, struktur folder, screenshot, dan instruksi API setelah mencocokkannya dengan source code yang benar-benar ada di repository.
