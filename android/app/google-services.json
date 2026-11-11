@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074798951489",
+    "project_id": "aplikasi-form-login-flutter",
+    "storage_bucket": "aplikasi-form-login-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074798951489:android:7bfdc13e1550819050dac0",
+        "android_client_info": {
+          "package_name": "com.example.form_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR4kjcL_EfuKJ1-1vjvWwWFogjZ1VL79k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
